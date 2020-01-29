@@ -18,6 +18,7 @@
 
 [class*="col-"] {
     float: left;
+    height: 100px;
 }
 
 /* responsive mobile */
